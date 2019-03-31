@@ -1,19 +1,19 @@
 ---
-templateKey: 'about-page'
-path: /about
+templateKey: about-page
 title: About our values
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+## History
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+The Appeal to Reason was established at Kansas City, Mo., August 31, 1895. It did not have a subscriber. It was moved to Girard, Kan., February. 1897. In its growth it is now occupying the fifth building, moving into larger quarters each time. The present building was built for it, and is eighty by one hundred feet, two stories and basement. It employs an average of sixty people and has a weekly payroll exceeding $1,000.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+## **High Technology at Enormous Scale**
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+The _Appeal To Reason_ has the finest machinery used in the printing business. It is printed on a three-deck, straight-line Goss machine that prints four hundred twelve-page papers, in colors, folded, per minute, when desired. It has three Mergenthaler linotypes, two bookpresses, four jobbers, a book folding machine,  a letter folder, cutters, stitchers, etc. Sixteen typewriters are used in the office. Each of its twenty-one machines is operated by its individual motor, power supplied by municipal light plant. 
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+The _Appeal_ has 450,000 subscribers, and the average edition is 550,000 each week, including bundle sales. The names of the subscribers occupy 1,400 galleys, each 8x24 inches, and requires fifteen tons of linotype metal to set it up. It uses a car of paper per issue, has used as many as six cars on special editions. Its greatest issue was 3,100,000, printed on March 31, 1906, and known as "The Rescue Edition." It printed 25,000,000 in 1908 and paid $22,000 postage. It uses a barrel of ink per issue. 
+
+Placed end to end, the papers printed last year would make a ribbon 14,200 miles long and two feet wide. The postage paid by __the _Appeal_ has given Girard. a town of less than 3,000 population, free mail delivery, which is the smallest town in the United States entitled to this privilege. The receipts of the Girard post office are greater than any city in Kansas.
+
+## Dedicated and Skilled Union Workforce
+
+The _Appeal_ has seven editors who devote al ltheir time to the matter that goes into it: J.A.Wayland. Fred D. Warren, E.V. Debs, G.H. Shoaf, C.L. Phifer, H.G. Creel and Grace D. Brewer. This is the largest corps of editors used by any paper of its size in America.  The labor commissioner of Kansas reports it as the best plant in Kansas for ventilation, short hours, rate of wages and protected machinery. Employees work 47 hours per week, and wages range from $6 to $25 per week. The shop is union from top to bottom. No one under eighteen years of age will be employed.
